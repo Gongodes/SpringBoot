@@ -1,0 +1,22 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:text": {},
+        "th:src": {
+            "context": "img"
+        },
+        "th:action": {
+            "context": "form"
+        },
+        "th:each": {},
+        "th:href": {
+            "context": "a"
+        },
+        "th:placeholder": {
+            "context": "input"
+        },
+        "th:field": {
+            "context": "textarea"
+        }
+    }
+}

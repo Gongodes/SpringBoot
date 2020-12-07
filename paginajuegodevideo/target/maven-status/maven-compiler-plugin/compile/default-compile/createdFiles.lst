@@ -1,0 +1,4 @@
+com\gongodes\paginajuegodevideo\PaginajuegodevideoApplication.class
+com\gongodes\paginajuegodevideo\service\VideojuegoService.class
+com\gongodes\paginajuegodevideo\controller\ListadoController.class
+com\gongodes\paginajuegodevideo\domain\videojuego.class
